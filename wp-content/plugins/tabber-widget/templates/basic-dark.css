@@ -1,0 +1,74 @@
+/*
+Name: Basic Dark
+Class: tabber-widget-basic-dark
+
+Notice: If the Class changes or the file is renamed, you must resave all widgets that use this template.
+*/
+
+/* Style Tabs */
+
+.tabber-widget-basic-dark {
+	color: #DDD;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.tabber-widget-basic-dark ul.tabber-widget-tabs {
+	list-style-type: none;
+	padding: 0 !important;
+	margin: 0 !important;
+	color #DDD;
+}
+.tabber-widget-basic-dark a {
+	color: #DDD !important;
+}
+.tabber-widget-basic-dark ul.tabber-widget-tabs li {
+	float: left;
+	list-style-type: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	border: none;
+	color: #DDD;
+}
+.tabber-widget-basic-dark ul.tabber-widget-tabs li:before {
+	content: "" !important;
+}
+.tabber-widget-basic-dark ul.tabber-widget-tabs a {
+	display: block;
+	padding: 6px 10px;
+	text-decoration: none !important;
+	margin: 1px;
+	margin-left: 0;
+	color: #DDD;
+	background: #444;
+}
+.tabber-widget-basic-dark ul.tabber-widget-tabs a:hover {
+	color: #CCC;
+	background: snow;
+}
+.tabber-widget-basic-dark ul.tabber-widget-tabs a.selected,
+.tabber-widget-basic-dark ul.tabber-widget-tabs a.selected:hover {
+	margin-bottom: 0;
+	color: snow;
+	background: #111;
+	border-bottom: 1px solid #111;
+	cursor: default;
+}
+
+.tabber-widget-basic-dark .tabber-widget-content {
+	padding: 10px 10px 8px 10px;
+	margin: 0;
+	clear: both;
+	background: #111;
+	color: #DDD;
+}
+
+/* Style Content */
+
+.tabber-widget-basic-dark .tabber-widget-content {
+	text-align: left;
+	color: #FFF;
+}
+.tabber-widget-basic-dark .tabber-widget-content .tabber-widget-title {
+	margin-top: 0;
+	color: #FFF;
+}

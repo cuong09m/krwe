@@ -1,0 +1,142 @@
+/* Slideshow container */
+.FA_overall_container_classic_responsive.light{
+	border-width:0px;/*container*/
+	border-style:none;/*container*/
+	border-color:transparent;/*container*/
+	-moz-border-radius:0px;/*container*/
+	-webkit-border-radius:0px;/*container*/
+	border-radius:0px;/*container*/
+	-moz-box-shadow:0px 0px 0px 0px ;/*container*/
+	-webkit-box-shadow:0px 0px 0px 0px ;/*container*/
+	box-shadow:0px 0px 0px 0px ;/*container*/
+	background-color:#eaeaea;/*container*/
+	background-image:none;/*container*/
+	background-repeat:no-repeat;/*container*/
+	background-position:left top;/*container*/
+}
+/* Slideshow title */
+.FA_overall_container_classic_responsive.light h3.FA_title_section{
+	color:#000000;/*slideshow_title*/
+	font-size:16px;/*slideshow_title*/
+}
+/* Image container */
+.FA_overall_container_classic_responsive.light .FA_featured_articles .FA_article .image_container{
+	border-width:1px;/*image_container*/
+	border-style:solid;/*image_container*/
+	border-color:#3b3b3b;/*image_container*/
+	-moz-border-radius:0px;/*image_container*/
+	-webkit-border-radius:0px;/*image_container*/
+	border-radius:0px;/*image_container*/
+	-moz-box-shadow:0px 0px 0px 0px ;/*image_container*/
+	-webkit-box-shadow:0px 0px 0px 0px ;/*image_container*/
+	box-shadow:0px 0px 0px 0px ;/*image_container*/
+	background-color:#eaeaea;/*image_container*/
+	float:left;/*image_container*/
+}
+/* Slide title */
+.FA_overall_container_classic_responsive.light .FA_featured_articles .FA_article h2{
+	color:#303030;/*slide_title*/
+	background-color:#eaeaea;/*slide_title*/
+	font-size:22px;/*slide_title*/
+}
+/* Slide date */
+.FA_overall_container_classic_responsive.light .FA_featured_articles .FA_article span.FA_date{
+	color:#545454;/*slide_date*/
+	font-size:12px;/*slide_date*/
+	border-color:transparent;/*slide_date*/
+	background-color:transparent;/*slide_date*/
+}
+/* Slide text */
+.FA_overall_container_classic_responsive.light .FA_featured_articles .FA_article div.fa_content{
+	font-size:12px;/*slide_text*/
+	color:#000000;/*slide_text*/
+}
+/* Links in slide description */
+.FA_overall_container_classic_responsive.light .FA_featured_articles .FA_article div.fa_content a{
+	color:#000000;/*slide_anchor*/
+	text-decoration:underline;/*slide_anchor*/
+}
+/* Read more link */
+.FA_overall_container_classic_responsive.light .FA_featured_articles .FA_article a.FA_read_more{
+	color:#FFFFFF;/*read_more*/
+	background-color:#3b3b3b;/*read_more*/
+	-moz-border-radius:0px;/*read_more*/
+	-webkit-border-radius:0px;/*read_more*/
+	border-radius:0px;/*read_more*/
+	-moz-box-shadow:0px 0px 0px 0px ;/*read_more*/
+	-webkit-box-shadow:0px 0px 0px 0px ;/*read_more*/
+	box-shadow:0px 0px 0px 0px ;/*read_more*/
+	font-size:12px;/*read_more*/
+	text-decoration:none;/*read_more*/
+}
+/* Navigation container */
+.FA_overall_container_classic_responsive.light ul.FA_navigation{
+	background-color:transparent;/*navigation_container*/
+}
+/* Individual navigation link */
+.FA_overall_container_classic_responsive.light ul.FA_navigation li a{
+	background-color:#999999;/*navigation_link*/
+	background-image:none;/*navigation_link*/
+}
+/* Individual navigation link hover */
+.FA_overall_container_classic_responsive.light ul.FA_navigation li a:HOVER{
+	background-color:#999999;/*navigation_link_hover*/
+	background-image:none;/*navigation_link_hover*/
+}
+/* Active link */
+.FA_overall_container_classic_responsive.light ul.FA_navigation li a.active{
+	background-color:#cccccc;/*navigation_link_active*/
+	background-image:none;/*navigation_link_active*/
+}
+/* Forward navigation */
+.FA_overall_container_classic_responsive.light .FA_next{
+	border-width:0px;/*forward_navigation*/
+	border-style:none;/*forward_navigation*/
+	border-color:transparent;/*forward_navigation*/
+	-moz-border-radius:0px;/*forward_navigation*/
+	-webkit-border-radius:0px;/*forward_navigation*/
+	border-radius:0px;/*forward_navigation*/
+	background-color:#999999;/*forward_navigation*/
+	background-image:url(../images/right-nav-light.png);/*forward_navigation*/
+	background-position:left top;/*forward_navigation*/
+	background-repeat:no-repeat;/*forward_navigation*/
+	-moz-box-shadow:0px 0px 0px 0px ;/*forward_navigation*/
+	-webkit-box-shadow:0px 0px 0px 0px ;/*forward_navigation*/
+	box-shadow:0px 0px 0px 0px ;/*forward_navigation*/
+}
+/* Forward navigation - mouse hover */
+.FA_overall_container_classic_responsive.light .FA_next:HOVER{
+	background-color:#CCC;/*forward_navigation_hover*/
+	background-image:url(../images/right-nav-light.png);/*forward_navigation_hover*/
+	background-position:left top;/*forward_navigation_hover*/
+	background-repeat:no-repeat;/*forward_navigation_hover*/
+	-moz-box-shadow:0px 0px 0px 0px ;/*forward_navigation_hover*/
+	-webkit-box-shadow:0px 0px 0px 0px ;/*forward_navigation_hover*/
+	box-shadow:0px 0px 0px 0px ;/*forward_navigation_hover*/
+}
+/* Backwards navigation */
+.FA_overall_container_classic_responsive.light .FA_back{
+	border-width:0px;/*backward_navigation*/
+	border-style:none;/*backward_navigation*/
+	border-color:transparent;/*backward_navigation*/
+	-moz-border-radius:0px;/*backward_navigation*/
+	-webkit-border-radius:0px;/*backward_navigation*/
+	border-radius:0px;/*backward_navigation*/
+	background-color:#999999;/*backward_navigation*/
+	background-image:url(../images/left-nav-light.png);/*backward_navigation*/
+	background-position:left top;/*backward_navigation*/
+	background-repeat:no-repeat;/*backward_navigation*/
+	-moz-box-shadow:0px 0px 0px 0px ;/*backward_navigation*/
+	-webkit-box-shadow:0px 0px 0px 0px ;/*backward_navigation*/
+	box-shadow:0px 0px 0px 0px ;/*backward_navigation*/
+}
+/* Backwards navigation - mouse hover */
+.FA_overall_container_classic_responsive.light .FA_back:HOVER{
+	background-color:#CCC;/*backward_navigation_hover*/
+	background-image:url(../images/left-nav-light.png);/*backward_navigation_hover*/
+	background-position:left top;/*backward_navigation_hover*/
+	background-repeat:no-repeat;/*backward_navigation_hover*/
+	-moz-box-shadow:0px 0px 0px 0px ;/*backward_navigation_hover*/
+	-webkit-box-shadow:0px 0px 0px 0px ;/*backward_navigation_hover*/
+	box-shadow:0px 0px 0px 0px ;/*backward_navigation_hover*/
+}

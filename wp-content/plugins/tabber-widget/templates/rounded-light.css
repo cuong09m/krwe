@@ -1,0 +1,76 @@
+/*
+Name: Rounded Corners Light
+Class: tabber-widget-rounded-light
+
+Note: Rounded corners are not supported in Internet Explorer 6, 7, or 8.
+
+Notice: If the Class changes or the file is renamed, you must resave all widgets that use this template.
+*/
+
+/* Style Tabs */
+
+.tabber-widget-rounded-light {
+	color: #111;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs {
+	list-style-type: none;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs li {
+	float: left;
+	list-style-type: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	border: none;
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs li:before {
+	content: "" !important;
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs a {
+	display: block;
+	padding: 6px 10px;
+	text-decoration: none !important;
+	margin: 1px;
+	margin-left: 0;
+	color: #FFF;
+	background: #444;
+	-moz-border-radius: 5px 5px 0px 0px;
+	-khtml-border-radius: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs a:hover {
+	color: #FFF;
+	background: #111;
+	-moz-border-radius: 5px 5px 0px 0px;
+	-khtml-border-radius: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs a.selected,
+.tabber-widget-rounded-light ul.tabber-widget-tabs a.selected:hover {
+	margin-bottom: 0;
+	color: #000;
+	background: snow;
+	border-bottom: 1px solid snow;
+	cursor: default;
+}
+
+.tabber-widget-rounded-light .tabber-widget-content {
+	padding: 10px 10px 8px 10px;
+	margin: 0;
+	clear: both;
+	background: snow;
+}
+
+/* Style Content */
+
+.tabber-widget-rounded-light .tabber-widget-content {
+	text-align: left;
+}
+.tabber-widget-rounded-light .tabber-widget-content .tabber-widget-title {
+	margin-top: 0;
+}

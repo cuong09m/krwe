@@ -1,0 +1,1138 @@
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 38.74 MB :: Real Memory 39.25 MB :: Peak Memory 38.85 MB :: Real Peak Memory 39.25 MB
+recordofworldevents.com/monthly-subscribe/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+-------- Input vars: ( Wed Dec 19, 2012 9:26:51 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=A&EMAIL[17]=cuong09m@live.com&FIRSTNAME[10]=Cuong Manh&LASTNAME[2]=Le&CLIENTIP[14]=123.30.187.242&DESC[20]=$24.99 USD / Monthly&BA_DESC[20]=$24.99 USD / Monthly&PROFILENAME[44]=1358587611:0 D:1 M~recordofworldevents.com~1&OPTIONALTRX[1]=S&OPTIONALTRXAMT[5]=24.99&FAILEDOPTIONALTRXACTION[15]=CancelOnFailure&FAILEDINITAMTACTION[15]=CancelOnFailure&CURRENCY[3]=USD&AMT[5]=24.99&TAXAMT[4]=0.00&MAXFAILPAYMENTS[1]=2&AUTOBILLOUTSTANDINGAMT[16]=AddToNextBilling&START[8]=01192013&PAYPERIOD[4]=MONT&TERM[1]=0&TENDER[1]=C&ACCT[16]=4221498681807096&EXPDATE[4]=0515&CVV2[3]=095&STREET[16]=34/97 Trieu Khuc&CITY[5]=Hanoi&STATE[5]=Hanoi&COUNTRY[2]=VN&ZIP[5]=10000&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'A',
+  'EMAIL' => 'cuong09m@live.com',
+  'FIRSTNAME' => 'Cuong Manh',
+  'LASTNAME' => 'Le',
+  'CLIENTIP' => '123.30.187.242',
+  'DESC' => '$24.99 USD / Monthly',
+  'BA_DESC' => '$24.99 USD / Monthly',
+  'PROFILENAME' => '1358587611:0 D:1 M~recordofworldevents.com~1',
+  'OPTIONALTRX' => 'S',
+  'OPTIONALTRXAMT' => '24.99',
+  'FAILEDOPTIONALTRXACTION' => 'CancelOnFailure',
+  'FAILEDINITAMTACTION' => 'CancelOnFailure',
+  'CURRENCY' => 'USD',
+  'AMT' => '24.99',
+  'TAXAMT' => '0.00',
+  'MAXFAILPAYMENTS' => '2',
+  'AUTOBILLOUTSTANDINGAMT' => 'AddToNextBilling',
+  'START' => '01192013',
+  'PAYPERIOD' => 'MONT',
+  'TERM' => '0',
+  'TENDER' => 'C',
+  'ACCT' => '************7096',
+  'EXPDATE' => '0515',
+  'CVV2' => '095',
+  'STREET' => '34/97 Trieu Khuc',
+  'CITY' => 'Hanoi',
+  'STATE' => 'Hanoi',
+  'COUNTRY' => 'VN',
+  'ZIP' => '10000',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Wed Dec 19, 2012 9:26:54 pm UTC ) --------
+RESULT=36&RPREF=RXJ5A3AABED7&RESPMSG=Transaction failed: Fail to obtain approval for the online transaction&TRXRESULT=12&TRXPNREF=ERFP7E2748F7&TRXRESPMSG=Declined: 15005-This transaction cannot be processed.&AVSADDR=X&AVSZIP=X&CVV2MATCH=Y&HOSTCODE=15005&PROCAVS=G&PROCCVV2=M&IAVS=N
+array (
+  'RESULT' => '36',
+  'RPREF' => 'RXJ5A3AABED7',
+  'RESPMSG' => 'Transaction failed: Fail to obtain approval for the online transaction',
+  'TRXRESULT' => '12',
+  'TRXPNREF' => 'ERFP7E2748F7',
+  'TRXRESPMSG' => 'Declined: 15005-This transaction cannot be processed.',
+  'AVSADDR' => 'X',
+  'AVSZIP' => 'X',
+  'CVV2MATCH' => 'Y',
+  'HOSTCODE' => '15005',
+  'PROCAVS' => 'G',
+  'PROCCVV2' => 'M',
+  'IAVS' => 'N',
+  '__error' => 'Error #36. Transaction failed: Fail to obtain approval for the online transaction.',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 38.70 MB :: Real Memory 39.25 MB :: Peak Memory 38.74 MB :: Real Peak Memory 39.25 MB
+recordofworldevents.com/annual-subscribe/
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/7.0.544.0 Safari/534.10
+-------- Input vars: ( Thu Dec 20, 2012 4:11:53 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=A&EMAIL[24]=jonathan.hixon@gmail.com&FIRSTNAME[8]=jonathan&LASTNAME[5]=hixon&CLIENTIP[13]=118.71.44.220&DESC[17]=$197 USD / Yearly&BA_DESC[17]=$197 USD / Yearly&PROFILENAME[44]=1387555913:0 D:1 Y~recordofworldevents.com~1&OPTIONALTRX[1]=S&OPTIONALTRXAMT[6]=197.00&FAILEDOPTIONALTRXACTION[15]=CancelOnFailure&FAILEDINITAMTACTION[15]=CancelOnFailure&CURRENCY[3]=USD&AMT[6]=197.00&TAXAMT[4]=0.00&MAXFAILPAYMENTS[1]=2&AUTOBILLOUTSTANDINGAMT[16]=AddToNextBilling&START[8]=12202013&PAYPERIOD[4]=YEAR&TERM[1]=0&TENDER[1]=C&ACCT[15]=447619601222929&EXPDATE[4]=0913&CVV2[3]=842&STREET[19]=1010 Rockville pike&CITY[9]=Rockville&STATE[2]=MD&COUNTRY[2]=US&ZIP[5]=20852&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'A',
+  'EMAIL' => 'jonathan.hixon@gmail.com',
+  'FIRSTNAME' => 'jonathan',
+  'LASTNAME' => 'hixon',
+  'CLIENTIP' => '118.71.44.220',
+  'DESC' => '$197 USD / Yearly',
+  'BA_DESC' => '$197 USD / Yearly',
+  'PROFILENAME' => '1387555913:0 D:1 Y~recordofworldevents.com~1',
+  'OPTIONALTRX' => 'S',
+  'OPTIONALTRXAMT' => '197.00',
+  'FAILEDOPTIONALTRXACTION' => 'CancelOnFailure',
+  'FAILEDINITAMTACTION' => 'CancelOnFailure',
+  'CURRENCY' => 'USD',
+  'AMT' => '197.00',
+  'TAXAMT' => '0.00',
+  'MAXFAILPAYMENTS' => '2',
+  'AUTOBILLOUTSTANDINGAMT' => 'AddToNextBilling',
+  'START' => '12202013',
+  'PAYPERIOD' => 'YEAR',
+  'TERM' => '0',
+  'TENDER' => 'C',
+  'ACCT' => '***********2929',
+  'EXPDATE' => '0913',
+  'CVV2' => '842',
+  'STREET' => '1010 Rockville pike',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'COUNTRY' => 'US',
+  'ZIP' => '20852',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Thu Dec 20, 2012 4:11:55 am UTC ) --------
+RESULT=36&RPREF=RRF57E2A84CC&RESPMSG=Transaction failed: Fail to obtain approval for the online transaction&TRXRESULT=23&TRXPNREF=EREP7E2A84CD&TRXRESPMSG=Invalid account number: Unsupported Credit Card type
+array (
+  'RESULT' => '36',
+  'RPREF' => 'RRF57E2A84CC',
+  'RESPMSG' => 'Transaction failed: Fail to obtain approval for the online transaction',
+  'TRXRESULT' => '23',
+  'TRXPNREF' => 'EREP7E2A84CD',
+  'TRXRESPMSG' => 'Invalid account number: Unsupported Credit Card type',
+  '__error' => 'Error #36. Transaction failed: Fail to obtain approval for the online transaction.',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 38.61 MB :: Real Memory 39.25 MB :: Peak Memory 38.65 MB :: Real Peak Memory 39.25 MB
+recordofworldevents.com/monthly-subscribe/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+-------- Input vars: ( Thu Dec 20, 2012 3:02:19 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=A&EMAIL[15]=vstoman@aol.com&FIRSTNAME[5]=Vicki&LASTNAME[5]=Toman&CLIENTIP[14]=173.73.125.110&DESC[20]=$24.99 USD / Monthly&BA_DESC[20]=$24.99 USD / Monthly&PROFILENAME[44]=1358650939:0 D:1 M~recordofworldevents.com~1&OPTIONALTRX[1]=S&OPTIONALTRXAMT[5]=24.99&FAILEDOPTIONALTRXACTION[15]=CancelOnFailure&FAILEDINITAMTACTION[15]=CancelOnFailure&CURRENCY[3]=USD&AMT[5]=24.99&TAXAMT[4]=0.00&MAXFAILPAYMENTS[1]=2&AUTOBILLOUTSTANDINGAMT[16]=AddToNextBilling&START[8]=01202013&PAYPERIOD[4]=MONT&TERM[1]=0&TENDER[1]=C&ACCT[16]=4476196008291083&EXPDATE[4]=0913&CVV2[3]=947&STREET[30]=1010 Rockville Pike, Suite 500&CITY[9]=Rockville&STATE[2]=MD&COUNTRY[2]=US&ZIP[5]=20852&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'A',
+  'EMAIL' => 'vstoman@aol.com',
+  'FIRSTNAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'CLIENTIP' => '173.73.125.110',
+  'DESC' => '$24.99 USD / Monthly',
+  'BA_DESC' => '$24.99 USD / Monthly',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'OPTIONALTRX' => 'S',
+  'OPTIONALTRXAMT' => '24.99',
+  'FAILEDOPTIONALTRXACTION' => 'CancelOnFailure',
+  'FAILEDINITAMTACTION' => 'CancelOnFailure',
+  'CURRENCY' => 'USD',
+  'AMT' => '24.99',
+  'TAXAMT' => '0.00',
+  'MAXFAILPAYMENTS' => '2',
+  'AUTOBILLOUTSTANDINGAMT' => 'AddToNextBilling',
+  'START' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'TERM' => '0',
+  'TENDER' => 'C',
+  'ACCT' => '************1083',
+  'EXPDATE' => '0913',
+  'CVV2' => '947',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'COUNTRY' => 'US',
+  'ZIP' => '20852',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Thu Dec 20, 2012 3:02:23 pm UTC ) --------
+RESULT=0&RPREF=RTY5A382C839&PROFILEID=RP0000000005&RESPMSG=Approved&TRXRESULT=0&TRXPNREF=EQEP7E145653&TRXRESPMSG=Approved&AUTHCODE=111111&AVSADDR=N&AVSZIP=Y&CVV2MATCH=Y&PPREF=70F55721GT901245U&CORRELATIONID=6ffc3885d6c4b&PROCAVS=Z&PROCCVV2=M&IAVS=N
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RTY5A382C839',
+  'PROFILEID' => 'RP0000000005',
+  'RESPMSG' => 'Approved',
+  'TRXRESULT' => '0',
+  'TRXPNREF' => 'EQEP7E145653',
+  'TRXRESPMSG' => 'Approved',
+  'AUTHCODE' => '111111',
+  'AVSADDR' => 'N',
+  'AVSZIP' => 'Y',
+  'CVV2MATCH' => 'Y',
+  'PPREF' => '70F55721GT901245U',
+  'CORRELATIONID' => '6ffc3885d6c4b',
+  'PROCAVS' => 'Z',
+  'PROCCVV2' => 'M',
+  'IAVS' => 'N',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.83 MB :: Real Memory 42.00 MB :: Peak Memory 41.90 MB :: Real Peak Memory 42.00 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356016033.1248550415039062500000
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Thu Dec 20, 2012 3:07:13 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Thu Dec 20, 2012 3:07:13 pm UTC ) --------
+RESULT=0&RPREF=RQF57E1462E5&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RQF57E1462E5',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.37 MB :: Real Memory 41.50 MB :: Peak Memory 41.43 MB :: Real Peak Memory 41.50 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356102444.7797870635986328125000
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Fri Dec 21, 2012 3:07:25 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Fri Dec 21, 2012 3:07:25 pm UTC ) --------
+RESULT=0&RPREF=RQC57E1FCC92&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RQC57E1FCC92',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.40 MB :: Real Memory 41.50 MB :: Peak Memory 41.47 MB :: Real Peak Memory 41.50 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356189442.4515850543975830078125
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sat Dec 22, 2012 3:17:22 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sat Dec 22, 2012 3:17:23 pm UTC ) --------
+RESULT=0&RPREF=RRF57E4505E6&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RRF57E4505E6',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.38 MB :: Real Memory 41.50 MB :: Peak Memory 41.45 MB :: Real Peak Memory 41.50 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356276444.1751160621643066406250
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sun Dec 23, 2012 3:27:24 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sun Dec 23, 2012 3:27:24 pm UTC ) --------
+RESULT=0&RPREF=RQC57E325707&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RQC57E325707',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.38 MB :: Real Memory 41.50 MB :: Peak Memory 41.45 MB :: Real Peak Memory 41.50 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356362846.8416340351104736328125
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Mon Dec 24, 2012 3:27:27 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Mon Dec 24, 2012 3:27:27 pm UTC ) --------
+RESULT=0&RPREF=RTJ5A3A8B0D0&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RTJ5A3A8B0D0',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.50 MB :: Real Memory 41.75 MB :: Peak Memory 41.59 MB :: Real Peak Memory 41.75 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356449258.1525430679321289062500
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Tue Dec 25, 2012 3:27:38 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Tue Dec 25, 2012 3:27:38 pm UTC ) --------
+RESULT=0&RPREF=RLF57FD2449B&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RLF57FD2449B',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 44.01 MB :: Real Memory 44.25 MB :: Peak Memory 44.09 MB :: Real Peak Memory 44.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356652867.6546549797058105468750
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Fri Dec 28, 2012 12:01:08 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Fri Dec 28, 2012 12:01:11 am UTC ) --------
+RESULT=0&RPREF=RRC57E72B44D&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RRC57E72B44D',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 44.00 MB :: Real Memory 44.25 MB :: Peak Memory 44.07 MB :: Real Peak Memory 44.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356739272.6362071037292480468750
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sat Dec 29, 2012 12:01:12 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sat Dec 29, 2012 12:01:13 am UTC ) --------
+RESULT=0&RPREF=RPF57E0799B5&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RPF57E0799B5',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 43.99 MB :: Real Memory 44.25 MB :: Peak Memory 44.07 MB :: Real Peak Memory 44.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1356826267.8977670669555664062500
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sun Dec 30, 2012 12:11:08 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sun Dec 30, 2012 12:11:08 am UTC ) --------
+RESULT=0&RPREF=RXY5A40A7369&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RXY5A40A7369',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 40.93 MB :: Real Memory 41.50 MB :: Peak Memory 40.99 MB :: Real Peak Memory 41.50 MB
+recordofworldevents.com/annual-subscribe/
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.5.30428; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+-------- Input vars: ( Wed Jan 2, 2013 12:49:10 pm UTC ) --------
+TRXTYPE[1]=A&ACTION[1]=S&TENDER[1]=P&RETURNURL[104]=http://recordofworldevents.com/annual-subscribe/?s2member_paypal_xco=s2member_pro_paypal_checkout_return&CANCELURL[104]=http://recordofworldevents.com/annual-subscribe/?s2member_paypal_xco=s2member_pro_paypal_checkout_cancel&PAGESTYLE[6]=paypal&LOCALECODE[0]=&NOSHIPPING[1]=1&ALLOWNOTE[1]=0&AMT[4]=0.00&CURRENCY[3]=USD&L_BILLINGTYPE0[17]=RecurringPayments&L_BILLINGAGREEMENTDESCRIPTION0[4]=$197&ADDROVERRIDE[1]=1&SHIPTONAME[10]=JOE READER&SHIPTOSTREET[0]=&SHIPTOCITY[0]=&SHIPTOSTATE[0]=&SHIPTOCOUNTRY[2]=US&SHIPTOZIP[0]=&EMAIL[24]=joe.reader@precise.co.uk&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'A',
+  'ACTION' => 'S',
+  'TENDER' => 'P',
+  'RETURNURL' => 'http://recordofworldevents.com/annual-subscribe/?s2member_paypal_xco=s2member_pro_paypal_checkout_return',
+  'CANCELURL' => 'http://recordofworldevents.com/annual-subscribe/?s2member_paypal_xco=s2member_pro_paypal_checkout_cancel',
+  'PAGESTYLE' => 'paypal',
+  'LOCALECODE' => '',
+  'NOSHIPPING' => '1',
+  'ALLOWNOTE' => '0',
+  'AMT' => '0.00',
+  'CURRENCY' => 'USD',
+  'L_BILLINGTYPE0' => 'RecurringPayments',
+  'L_BILLINGAGREEMENTDESCRIPTION0' => '$197',
+  'ADDROVERRIDE' => '1',
+  'SHIPTONAME' => 'JOE READER',
+  'SHIPTOSTREET' => '',
+  'SHIPTOCITY' => '',
+  'SHIPTOSTATE' => '',
+  'SHIPTOCOUNTRY' => 'US',
+  'SHIPTOZIP' => '',
+  'EMAIL' => 'joe.reader@precise.co.uk',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Wed Jan 2, 2013 12:49:11 pm UTC ) --------
+RESULT=0&RESPMSG=Verified&TOKEN=EC-3WK57398MY480810Y&CORRELATIONID=1bfee8754103d
+array (
+  'RESULT' => '0',
+  'RESPMSG' => 'Verified',
+  'TOKEN' => 'EC-3WK57398MY480810Y',
+  'CORRELATIONID' => '1bfee8754103d',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 40.94 MB :: Real Memory 41.25 MB :: Peak Memory 40.99 MB :: Real Peak Memory 41.25 MB
+recordofworldevents.com/annual-subscribe/
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.5.30428; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+-------- Input vars: ( Wed Jan 2, 2013 12:52:41 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=A&EMAIL[24]=joe.reader@precise.co.uk&FIRSTNAME[3]=JOE&LASTNAME[6]=READER&CLIENTIP[13]=213.219.18.82&DESC[4]=$197&BA_DESC[4]=$197&PROFILENAME[44]=1388710361:0 D:1 Y~recordofworldevents.com~1&OPTIONALTRX[1]=S&OPTIONALTRXAMT[6]=197.00&FAILEDOPTIONALTRXACTION[15]=CancelOnFailure&FAILEDINITAMTACTION[15]=CancelOnFailure&CURRENCY[3]=USD&AMT[6]=197.00&TAXAMT[4]=0.00&MAXFAILPAYMENTS[1]=2&AUTOBILLOUTSTANDINGAMT[16]=AddToNextBilling&START[8]=01032014&PAYPERIOD[4]=YEAR&TERM[1]=0&TENDER[1]=C&ACCT[16]=5569500001028951&EXPDATE[4]=0913&CVV2[3]=676&STREET[47]=PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT&CITY[6]=LONDON&STATE[6]=LONDON&COUNTRY[2]=GB&ZIP[8]=EC3N 4QN&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'A',
+  'EMAIL' => 'joe.reader@precise.co.uk',
+  'FIRSTNAME' => 'JOE',
+  'LASTNAME' => 'READER',
+  'CLIENTIP' => '213.219.18.82',
+  'DESC' => '$197',
+  'BA_DESC' => '$197',
+  'PROFILENAME' => '1388710361:0 D:1 Y~recordofworldevents.com~1',
+  'OPTIONALTRX' => 'S',
+  'OPTIONALTRXAMT' => '197.00',
+  'FAILEDOPTIONALTRXACTION' => 'CancelOnFailure',
+  'FAILEDINITAMTACTION' => 'CancelOnFailure',
+  'CURRENCY' => 'USD',
+  'AMT' => '197.00',
+  'TAXAMT' => '0.00',
+  'MAXFAILPAYMENTS' => '2',
+  'AUTOBILLOUTSTANDINGAMT' => 'AddToNextBilling',
+  'START' => '01032014',
+  'PAYPERIOD' => 'YEAR',
+  'TERM' => '0',
+  'TENDER' => 'C',
+  'ACCT' => '************8951',
+  'EXPDATE' => '0913',
+  'CVV2' => '676',
+  'STREET' => 'PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT',
+  'CITY' => 'LONDON',
+  'STATE' => 'LONDON',
+  'COUNTRY' => 'GB',
+  'ZIP' => 'EC3N 4QN',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Wed Jan 2, 2013 12:52:44 pm UTC ) --------
+RESULT=0&RPREF=RLF58A1DAA09&PROFILEID=RP0000000006&RESPMSG=Approved&TRXRESULT=0&TRXPNREF=EQFP7E8DAD25&TRXRESPMSG=Approved&AUTHCODE=111111&AVSADDR=Y&AVSZIP=Y&CVV2MATCH=Y&PPREF=4C5350504U074625N&CORRELATIONID=c42eb278d47d6&PROCAVS=X&PROCCVV2=M&IAVS=N
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RLF58A1DAA09',
+  'PROFILEID' => 'RP0000000006',
+  'RESPMSG' => 'Approved',
+  'TRXRESULT' => '0',
+  'TRXPNREF' => 'EQFP7E8DAD25',
+  'TRXRESPMSG' => 'Approved',
+  'AUTHCODE' => '111111',
+  'AVSADDR' => 'Y',
+  'AVSZIP' => 'Y',
+  'CVV2MATCH' => 'Y',
+  'PPREF' => '4C5350504U074625N',
+  'CORRELATIONID' => 'c42eb278d47d6',
+  'PROCAVS' => 'X',
+  'PROCCVV2' => 'M',
+  'IAVS' => 'N',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 42.17 MB :: Real Memory 42.25 MB :: Peak Memory 42.21 MB :: Real Peak Memory 42.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357286948.6925470829010009765625
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Fri Jan 4, 2013 8:09:10 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Fri Jan 4, 2013 8:09:10 am UTC ) --------
+RESULT=0&RPREF=RRF57EBDF1DD&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RRF57EBDF1DD',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 42.17 MB :: Real Memory 42.25 MB :: Peak Memory 42.22 MB :: Real Peak Memory 42.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357286948.6925470829010009765625
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Fri Jan 4, 2013 8:09:10 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000006&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000006',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Fri Jan 4, 2013 8:09:11 am UTC ) --------
+RESULT=0&RPREF=RUJ5A37FD140&PROFILEID=RP0000000006&STATUS=ACTIVE&PROFILENAME=1388710361:0 D:1 Y~recordofworldevents.com~1&START=01032014&TERM=0&NEXTPAYMENT=01032014&PAYPERIOD=YEAR&FREQUENCY=1&TENDER=C&AMT=197.00&ACCT=5569XXXXXXXX8951&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=197.00&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=joe.reader@precise.co.uk&NAME=JOE&LASTNAME=READER&STREET=PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT&CITY=LONDON&STATE=LONDON&ZIP=EC3N 4QN&COUNTRY=GB&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RUJ5A37FD140',
+  'PROFILEID' => 'RP0000000006',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1388710361:0 D:1 Y~recordofworldevents.com~1',
+  'START' => '01032014',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01032014',
+  'PAYPERIOD' => 'YEAR',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '197.00',
+  'ACCT' => '5569XXXXXXXX8951',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '197.00',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'joe.reader@precise.co.uk',
+  'NAME' => 'JOE',
+  'LASTNAME' => 'READER',
+  'STREET' => 'PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT',
+  'CITY' => 'LONDON',
+  'STATE' => 'LONDON',
+  'ZIP' => 'EC3N 4QN',
+  'COUNTRY' => 'GB',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.99 MB :: Real Memory 42.25 MB :: Peak Memory 42.02 MB :: Real Peak Memory 42.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357373467.4075880050659179687500
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sat Jan 5, 2013 8:11:07 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sat Jan 5, 2013 8:11:08 am UTC ) --------
+RESULT=0&RPREF=RPC57E54660F&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RPC57E54660F',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 41.99 MB :: Real Memory 42.25 MB :: Peak Memory 42.04 MB :: Real Peak Memory 42.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357373467.4075880050659179687500
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sat Jan 5, 2013 8:11:08 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000006&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000006',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sat Jan 5, 2013 8:11:08 am UTC ) --------
+RESULT=0&RPREF=RSY5A25DCF1F&PROFILEID=RP0000000006&STATUS=ACTIVE&PROFILENAME=1388710361:0 D:1 Y~recordofworldevents.com~1&START=01032014&TERM=0&NEXTPAYMENT=01032014&PAYPERIOD=YEAR&FREQUENCY=1&TENDER=C&AMT=197.00&ACCT=5569XXXXXXXX8951&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=197.00&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=joe.reader@precise.co.uk&NAME=JOE&LASTNAME=READER&STREET=PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT&CITY=LONDON&STATE=LONDON&ZIP=EC3N 4QN&COUNTRY=GB&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RSY5A25DCF1F',
+  'PROFILEID' => 'RP0000000006',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1388710361:0 D:1 Y~recordofworldevents.com~1',
+  'START' => '01032014',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01032014',
+  'PAYPERIOD' => 'YEAR',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '197.00',
+  'ACCT' => '5569XXXXXXXX8951',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '197.00',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'joe.reader@precise.co.uk',
+  'NAME' => 'JOE',
+  'LASTNAME' => 'READER',
+  'STREET' => 'PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT',
+  'CITY' => 'LONDON',
+  'STATE' => 'LONDON',
+  'ZIP' => 'EC3N 4QN',
+  'COUNTRY' => 'GB',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 42.00 MB :: Real Memory 42.25 MB :: Peak Memory 42.03 MB :: Real Peak Memory 42.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357460467.5355060100555419921875
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sun Jan 6, 2013 8:21:07 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sun Jan 6, 2013 8:21:08 am UTC ) --------
+RESULT=0&RPREF=RLF58A4A43F6&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RLF58A4A43F6',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.3.19 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 42.01 MB :: Real Memory 42.25 MB :: Peak Memory 42.06 MB :: Real Peak Memory 42.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357460467.5355060100555419921875
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Sun Jan 6, 2013 8:21:08 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000006&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000006',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Sun Jan 6, 2013 8:21:08 am UTC ) --------
+RESULT=0&RPREF=RTY5A42282A1&PROFILEID=RP0000000006&STATUS=ACTIVE&PROFILENAME=1388710361:0 D:1 Y~recordofworldevents.com~1&START=01032014&TERM=0&NEXTPAYMENT=01032014&PAYPERIOD=YEAR&FREQUENCY=1&TENDER=C&AMT=197.00&ACCT=5569XXXXXXXX8951&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=197.00&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=joe.reader@precise.co.uk&NAME=JOE&LASTNAME=READER&STREET=PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT&CITY=LONDON&STATE=LONDON&ZIP=EC3N 4QN&COUNTRY=GB&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RTY5A42282A1',
+  'PROFILEID' => 'RP0000000006',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1388710361:0 D:1 Y~recordofworldevents.com~1',
+  'START' => '01032014',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01032014',
+  'PAYPERIOD' => 'YEAR',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '197.00',
+  'ACCT' => '5569XXXXXXXX8951',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '197.00',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'joe.reader@precise.co.uk',
+  'NAME' => 'JOE',
+  'LASTNAME' => 'READER',
+  'STREET' => 'PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT',
+  'CITY' => 'LONDON',
+  'STATE' => 'LONDON',
+  'ZIP' => 'EC3N 4QN',
+  'COUNTRY' => 'GB',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.4.6-1ubuntu1.1 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 25.74 MB :: Real Memory 26.25 MB :: Peak Memory 25.80 MB :: Real Peak Memory 26.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357600026.9793550968170166015625
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Mon Jan 7, 2013 11:07:10 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Mon Jan 7, 2013 11:07:17 pm UTC ) --------
+RESULT=0&RPREF=RSJ5A2788124&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RSJ5A2788124',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.4.6-1ubuntu1.1 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 25.74 MB :: Real Memory 26.25 MB :: Peak Memory 25.82 MB :: Real Peak Memory 26.25 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357600026.9793550968170166015625
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Mon Jan 7, 2013 11:07:17 pm UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000006&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000006',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Mon Jan 7, 2013 11:07:18 pm UTC ) --------
+RESULT=0&RPREF=RPC57E6F2304&PROFILEID=RP0000000006&STATUS=ACTIVE&PROFILENAME=1388710361:0 D:1 Y~recordofworldevents.com~1&START=01032014&TERM=0&NEXTPAYMENT=01032014&PAYPERIOD=YEAR&FREQUENCY=1&TENDER=C&AMT=197.00&ACCT=5569XXXXXXXX8951&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=197.00&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=joe.reader@precise.co.uk&NAME=JOE&LASTNAME=READER&STREET=PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT&CITY=LONDON&STATE=LONDON&ZIP=EC3N 4QN&COUNTRY=GB&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RPC57E6F2304',
+  'PROFILEID' => 'RP0000000006',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1388710361:0 D:1 Y~recordofworldevents.com~1',
+  'START' => '01032014',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01032014',
+  'PAYPERIOD' => 'YEAR',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '197.00',
+  'ACCT' => '5569XXXXXXXX8951',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '197.00',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'joe.reader@precise.co.uk',
+  'NAME' => 'JOE',
+  'LASTNAME' => 'READER',
+  'STREET' => 'PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT',
+  'CITY' => 'LONDON',
+  'STATE' => 'LONDON',
+  'ZIP' => 'EC3N 4QN',
+  'COUNTRY' => 'GB',
+  'CURRENCY' => 'USD',
+)
+

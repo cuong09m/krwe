@@ -1,0 +1,164 @@
+/**
+ * To create a new color scheme see the details about the new themes file structure: http://www.codeflavors.com/documentation/theme-file-structure/
+ */
+.FA_overall_container_classic_responsive {
+	display:block;
+	position:relative;
+	clear:both;
+	z-index:1;
+	margin:0px auto;
+	max-width:100%;
+}	
+
+.FA_overall_container_classic_responsive a:focus {
+	outline:0px;
+}
+focus {
+	outline:0px;
+}
+
+.FA_overall_container_classic_responsive h3.FA_title_section { 	
+	padding:0px;
+	margin:0px;
+	font-weight:normal;
+	font-style:italic;
+}
+
+.FA_overall_container_classic_responsive .FA_featured_articles {
+	display:block;
+	position:relative;
+	clear:both;
+	height:300px;
+	width:100%;
+	overflow:hidden;
+	padding-bottom:0px;
+}
+
+.FA_overall_container_classic_responsive .FA_featured_articles .FA_article{
+	display:block;
+	position:relative;
+	clear:both;
+	/* if you plan on using left slide morph, set width on the elements */
+	width:100%;
+	padding:0px;
+	overflow:hidden;	
+	text-align:justify;	
+}
+	.FA_overall_container_classic_responsive .FA_featured_articles .FA_article .FA_wrap{
+		padding:30px 40px 0px;
+	}
+
+
+.FA_overall_container_classic_responsive .FA_featured_articles .FA_article img{
+	margin:0px 30px 10px 0px!important;
+	max-width:100%;
+	max-height:100%;
+	padding:2px;
+	background:#FFF;
+	border:1px #CCC solid;
+	float:left;
+}
+
+.FA_overall_container_classic_responsive .FA_featured_articles .FA_article .fa-video{
+	margin:0px 30px 10px 0px!important;
+	max-width:100%;
+	padding:2px;
+	background:#000;
+	border:1px #000 solid;
+	float:left;
+}
+
+.FA_overall_container_classic_responsive .FA_featured_articles .FA_article h2{
+	margin:0px;
+	padding:0px;
+	font-size:22px;
+	font-weight:normal;
+	border:none;
+	clear:none;
+	text-align:left;
+	z-index:1;
+}
+	.FA_overall_container_classic_responsive .FA_featured_articles .FA_article h2 a{
+		color:inherit;
+	}
+
+.FA_overall_container_classic_responsive .FA_featured_articles .FA_article span.FA_date{
+	font-size:14px;
+	font-style:italic;
+}
+
+.FA_overall_container_classic_responsive .FA_featured_articles .FA_article div.fa_content{
+	font-size:12px; 
+	margin:0px;
+	padding:10px 0px 20px;
+	line-height:18px;	
+	text-align:justify;
+}
+
+.FA_overall_container_classic_responsive .FA_featured_articles .FA_article a.FA_read_more{
+	font-size:16px;	
+	padding:4px 6px;
+	font-style:italic;
+	text-decoration:none;
+}
+
+/*
+	Bottom navigation
+*/
+.FA_overall_container_classic_responsive ul.FA_navigation {
+	display:block;
+	position:relative;
+	padding:0px !important;
+	list-style-type:none !important;
+	margin:0px !important;
+	text-align:left;
+	width:100%;	
+	height:17px;
+	border:none;
+	overflow:hidden;
+}
+	.FA_overall_container_classic_responsive ul.FA_navigation li{
+		display:inline;
+		border:none;
+		padding:0px !important;
+		list-style-type:none !important;
+		background:none;
+	}
+		.FA_overall_container_classic_responsive ul.FA_navigation li.first{
+			margin-left:35px !important;
+		}
+		.FA_overall_container_classic_responsive ul.FA_navigation li a{
+			display:inline-block;
+			width:12px;
+			height:17px;
+			line-height:17px;
+			font-size:0px;			
+			margin:0px 0px -5px 5px;
+		}		
+	
+.FA_overall_container_classic_responsive ul.FA_navigation a.active{
+	margin-bottom:0px;	
+}
+.FA_overall_container_classic_responsive ul.FA_navigation a:hover{
+	margin-bottom:0px;
+}
+
+/* Sideways navigation */
+.FA_overall_container_classic_responsive .FA_back{
+	display:block;
+	position:absolute;
+	left:0px;
+	top:45%;
+	width:20px;
+	height:45px;
+	z-index:110;
+}
+.FA_overall_container_classic_responsive .FA_next{
+	display:block;
+	position:absolute;
+	right:0px;
+	top:45%;
+	width:20px;
+	height:45px;	
+	z-index:110;
+}

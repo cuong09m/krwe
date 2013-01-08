@@ -1,0 +1,1 @@
+<?php $IEM = $tpl->Get('IEM'); ?><br />

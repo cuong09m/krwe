@@ -1,0 +1,35 @@
+# HEADERS and CACHING
+##############################################
+#### CACHING ####
+# YEAR
+<FilesMatch "\.(flv|gif|jpg|jpeg|png|ico)">
+  Header set Cache-Control "max-age=2592000"
+</FilesMatch>
+# WEEK
+<FilesMatch "\.(js|css|pdf|swf)$">
+   Header set Cache-Control "max-age=604800"
+</FilesMatch>
+## 10 minutes
+<FilesMatch "\.(html|htm|txt)$">
+   Header set Cache-Control "max-age=600"
+</FilesMatch>
+# DONT CACHE
+<FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+   Header unset Cache-Control
+</FilesMatch>
+
+# REWRITES ###
+##############################################
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#BEGIN WP-PLS
+RewriteRule ^(.*\.(jpg|jpeg|gif|png|php)) load_image.php?file_src=$1&extension=$2 [L,QSA]
+#END WP-PLS
+</IfModule>

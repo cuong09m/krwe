@@ -1,0 +1,70 @@
+1.1.0 - 2009-12-08
+	Updated it-core-class.php to version 1.1.0
+	Updated it-form.php to version 1.0.8
+	Updated it-storage.php to version 1.1.0
+1.1.1 - 2009-12-11
+	Updated it-core-class.php to version 1.1.1
+	Updated it-utility.php to version 1.0.5
+1.1.2 - 2010-01-13
+	Updated it-core-class.php to version 1.1.2
+1.1.3 - 2010-03-03
+	Updated it-core-class.php to version 1.1.3
+	Updated it-form.php to version 1.0.9
+	Updated it-thickbox.php to version 1.0.4
+1.1.4 - 2010-04-13 - Chris Jean
+	Updated it-form.php to version 1.0.10
+1.1.5 - 2010-04-13 - Chris Jean
+	Updated it-form.php to version 1.0.11
+1.1.6 - 2010-04-15 - Chris Jean
+	Updated it-core-class.php to version 1.1.4
+	Updated it-storage.php to version 1.1.1
+1.2.0 - 2010-06-29 - Chris Jean
+	Implemented a system for all code that uses the classes libraries
+		to always use the most-current version
+	
+	Added init.php version 1.0.0
+	Added load.php version 1.0.0
+	Updated it-core-class.php to version 1.1.5
+	Updated it-error.php to verison 1.0.2
+	Updated it-form.php to version 1.0.12
+	Updated it-utility.php to version 1.0.6
+1.2.1 - 2010-07-15 - Chris Jean
+	Updated it-file-utility.php to version 1.4.7
+1.3.0 - 2010-07-27 - Chris Jean
+	Added it-post-type.php version 1.0.0
+	Added it-taxonomy.php version 1.0.0
+1.3.1 - 2010-08-24 - Chris Jean
+	Updated js/it-core-class.js to not focus on checkboxes, buttons, or inputs
+		with a class of "no-auto-focus".
+1.3.2 - 2010-09-02 - Chris Jean
+	Updated it-core-class.php to version 1.1.6
+1.3.3 - 2010-09-20 - Chris Jean
+	Updated it-storage to version 1.1.2
+1.4.0 - 2010-10-05 - Chris Jean
+	Updated it-error.php to version 1.1.0
+	Updated it-post-type.php to version 1.0.1
+	Updated it-storage.php to version 1.2.0
+	Updated load.php to version 1.4.0
+1.4.1 - 2010-10-06 - Chris Jean
+	Updated it-post-type.php to version 1.0.2
+1.5.0 - 2010-12-14 - Chris Jean
+	Added:
+		it-cache.php version 1.0.0
+		it-zip.php version 1.0.0
+	Updated:
+		it-core-class.php to version 1.1.7
+		it-error.php to version 1.1.1
+		it-file-utility.php to version 1.5.0
+		it-form.php to version 1.0.13
+		it-storage to version 1.2.1
+		load.php to version 1.5.0
+	
+	Updated js/it-core-class.js to support a no-auto-focus class
+		for when autofocus is not desired
+1.5.1 - 2010-12-20 - Chris Jean
+	Updated:
+		it-form.php to 1.0.14
+		it-utility.php to 1.0.7
+		load.php to 1.5.1
+1.5.3 - 2010-12-20 - Chris Jean
+	Refreshed Git repo

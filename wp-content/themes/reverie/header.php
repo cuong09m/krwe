@@ -1,0 +1,110 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="<?php bloginfo('charset'); ?>">
+<meta name="msvalidate.01" content="2950BE423BE3C25C0D336E1C7C330A06" />
+
+<title><?php wp_title('|', true, 'right'); bloginfo('name'); ?></title>
+
+<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+<meta name="viewport" content="width=device-width" />
+
+<!-- Favicon and Feed -->
+<link rel="shortcut icon" type="image/png"
+	href="<?php echo home_url(); ?>/favicon.ico">
+<link rel="alternate" type="application/rss+xml"
+	title="<?php bloginfo('name'); ?> Feed"
+	href="<?php echo home_url(); ?>/feed/">
+
+<!--  iPhone Web App Home Screen Icon -->
+<link rel="apple-touch-icon" sizes="72x72"
+	href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="114x114"
+	href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-icon-retina.png" />
+<link rel="apple-touch-icon"
+	href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-icon.png" />
+
+<!-- Enable Startup Image for iOS Home Screen Web App -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="apple-touch-startup-image"
+	href="<?php echo get_template_directory_uri(); ?>/mobile-load.png" />
+
+<!-- Startup Image iPad Landscape (748x1024) -->
+<link rel="apple-touch-startup-image"
+	href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-load-ipad-landscape.png"
+	media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" />
+<!-- Startup Image iPad Portrait (768x1004) -->
+<link rel="apple-touch-startup-image"
+	href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-load-ipad-portrait.png"
+	media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" />
+<!-- Startup Image iPhone (320x460) -->
+<link rel="apple-touch-startup-image"
+	href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-load.png"
+	media="screen and (max-device-width: 320px)" />
+	
+<?php wp_head(); ?>
+
+</head>
+
+<body <?php body_class(); ?>>
+
+	<!-- Start the main container -->
+	<div id="container" class="container" role="document">
+
+		<!-- Row for blog navigation -->
+		<div class="row">
+			<header class="twelve columns" role="banner">
+				<div class="top-header">
+					<?php dynamic_sidebar("Top header adv"); ?>
+				</div>
+				<div class="reverie-header">
+					<div class="logo">
+						<h1>
+							<a href="<?php bloginfo('url'); ?>"
+								title="<?php bloginfo('name'); ?>"><img
+								src="<?php bloginfo('template_url'); ?>/images/logo.jpg"
+								alt="<?php bloginfo('name'); ?>" /></a>
+						</h1>
+					</div>
+					
+					<!-- <div class="subscribe">
+						<img src="<?php bloginfo('template_url'); ?>/images/sampleissue.jpg" alt="Subscribe sample issues" />
+					</div> -->
+
+					<div class="nav">
+						<nav role="navigation">
+							<?php
+							wp_nav_menu ( array ('theme_location' => 'header_navigation', 'container' => false, 'menu_class' => '', 'echo' => true, 'before' => '', 'after' => '', 'link_before' => '', 'link_after' => '', 'depth' => 0, 'items_wrap' => '<ul class="nav-bar">%3$s</ul>', 'walker' => new reverie_walker () ) );
+							?>
+						</nav>
+					</div>
+					
+					<div class="search">
+						<form action="/">
+							<input type="submit" id="searchsubmit" value="Search" class="button">
+						<input type="text" value="" name="s" id="s" placeholder="Search">
+						<p>
+						<a href="/?s=">Advanced search</a></p>
+						</form>
+					</div>
+					
+				</div>
+				
+				<nav role="navigation">
+							<?php
+							wp_nav_menu ( array ('theme_location' => 'primary_navigation', 'container' => false, 'menu_class' => '', 'echo' => true, 'before' => '', 'after' => '', 'link_before' => '', 'link_after' => '', 'depth' => 0, 'items_wrap' => '<ul class="nav-bar">%3$s</ul>', 'walker' => new reverie_walker () ) );
+							?>
+						</nav>
+
+			</header>
+		</div>
+
+		<!-- Row for main content area -->
+		<div id="main" class="row">
