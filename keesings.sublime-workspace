@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"prin",
+				"print_r"
+			],
+			[
 				"face",
 				"facet"
 			],
@@ -20,83 +24,74 @@
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"file": "wp-content/themes/roots-master/taxonomy-reg.php",
 			"settings":
 			{
-				"buffer_size": 395,
+				"buffer_size": 185,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "wp-config.php",
+			"file": "wp-content/themes/roots-master/templates/content.php",
 			"settings":
 			{
-				"buffer_size": 3724,
+				"buffer_size": 1493,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "China+AND+(wpcf-start-date_dt:[1999-01-01T00:00:00.000Z TO 2013-12-01T23:59:59.999Z] OR wpcf-end-date_dt:[1999-01-01T00:00:00.000Z TO 2013-12-01T23:59:59.999Z])",
-			"settings":
-			{
-				"buffer_size": 160,
-				"line_ending": "Unix",
-				"name": "China+AND+(wpcf-start-date_dt:[1999-01-01T00:00:00"
-			}
-		},
-		{
-			"file": "wp-content/plugins/advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php",
-			"settings":
-			{
-				"buffer_size": 47183,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "wp-content/plugins/solr-for-wordpress/solr-for-wordpress.php",
-			"settings":
-			{
-				"buffer_size": 61635,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "wp-content/themes/roots-master/mss_search_custom.php",
-			"settings":
-			{
-				"buffer_size": 10556,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "wp-content/themes/roots-master/templates/content-front-page.php",
-			"settings":
-			{
-				"buffer_size": 2322,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "wp-content/themes/roots-master/templates/content-single.php",
-			"settings":
-			{
-				"buffer_size": 1304,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "wp-content/themes/roots-master/single.php",
-			"settings":
-			{
-				"buffer_size": 6460,
-				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "wp-content/themes/roots-master/lib/custom.php",
 			"settings":
 			{
-				"buffer_size": 12920,
+				"buffer_size": 19148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/roots-master/templates/entry-meta.php",
+			"settings":
+			{
+				"buffer_size": 502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/roots-master/templates/content-reg.php",
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/roots-master/templates/content-archive_breaking_history.php",
+			"settings":
+			{
+				"buffer_size": 1509,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/roots-master/templates/content-single.php",
+			"settings":
+			{
+				"buffer_size": 2475,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/reverie/single-breaking_history.php",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/reverie/loop-breaking_history.php",
+			"settings":
+			{
+				"buffer_size": 1850,
 				"line_ending": "Unix"
 			}
 		}
@@ -104,9 +99,25 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 75.0,
+		"height": 54.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
 			[
 				"diff",
 				"Set Syntax: Diff"
@@ -116,16 +127,8 @@
 				"Preferences: Terminal Settings – Default"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"php",
 				"Set Syntax: PHP"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Install Package"
 			],
 			[
 				"Package Control:",
@@ -149,6 +152,42 @@
 	},
 	"file_history":
 	[
+		"/home/cuonglm/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-regbhindepth.php",
+		"/var/www/keesings/wp-content/themes/roots-master/archive-breaking_history.php",
+		"/var/www/keesings/wp-content/themes/roots-master/archive-daily_history.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-archive_breaking_history.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-archive_daily_history.php",
+		"/var/www/keesings/wp-content/themes/reverie/functions.php",
+		"/var/www/keesings/wp-content/themes/roots-master/lib/custom.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-reg.php",
+		"/var/www/keesings/wp-content/themes/roots-master/taxonomy-reg.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content.php",
+		"/var/www/keesings/wp-content/themes/roots-master/taxonomy-nation.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-regbh.php",
+		"/var/www/keesings/wp-content/themes/reverie/loop-regbh.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-nation.php",
+		"/var/www/keesings/wp-content/themes/reverie/taxonomy-nation.php",
+		"/var/www/keesings/wp-content/themes/reverie/taxonomy-person.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/page-header-taxonomy.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/entry-meta.php",
+		"/var/www/keesings/wp-content/themes/roots-master/functions.php",
+		"/var/www/keesings/wp-content/themes/reverie/archive-breaking_history.php",
+		"/var/www/keesings/wp-content/themes/reverie/single-breaking_history.php",
+		"/var/www/keesings/wp-content/themes/roots-master/page-allnation.php",
+		"/var/www/keesings/wp-content/plugins/wp-content-slideshow/content-slideshow.php",
+		"/home/cuonglm/.gemrc",
+		"/var/www/keesings/index.php",
+		"/var/www/keesings/wp-config.php",
+		"/var/www/keesings/wp-content/plugins/advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php",
+		"/var/www/keesings/wp-content/plugins/solr-for-wordpress/solr-for-wordpress.php",
+		"/var/www/keesings/wp-content/themes/roots-master/mss_search_custom.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-front-page.php",
+		"/var/www/keesings/wp-content/themes/roots-master/templates/content-single.php",
+		"/var/www/keesings/wp-content/themes/roots-master/single.php",
+		"/home/cuonglm/127.0.0.1 recordofworldevents.com",
+		"/etc/hosts",
+		"/var/www/keesings/wp-content/plugins/wp-content-slideshow/wp-content-slideshow.php",
 		"/var/www/keesings/wp-content/plugins/advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.inc.php",
 		"/home/cuonglm/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
 		"/home/cuonglm/.config/sublime-text-2/Packages/SublimeCodeIntel/Base File.sublime-settings",
@@ -163,9 +202,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/var/www/keesings/wp-content/themes"
 		]
 	},
 	"find_state":
@@ -173,6 +213,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"be_taxonomy_breadcrumb",
+			">\n",
+			"breaking",
 			"$fq",
 			"fq",
 			"org_org",
@@ -189,6 +232,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"daily"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -199,23 +243,23 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "wp-content/themes/roots-master/taxonomy-reg.php",
 					"settings":
 					{
-						"buffer_size": 395,
+						"buffer_size": 185,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								395,
-								395
+								0,
+								0
 							]
 						],
 						"settings":
@@ -233,18 +277,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "wp-config.php",
+					"file": "wp-content/themes/roots-master/templates/content.php",
 					"settings":
 					{
-						"buffer_size": 3724,
+						"buffer_size": 1493,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								942,
-								942
+								782,
+								782
 							]
 						],
 						"settings":
@@ -262,109 +306,18 @@
 				},
 				{
 					"buffer": 2,
+					"file": "wp-content/themes/roots-master/lib/custom.php",
 					"settings":
 					{
-						"buffer_size": 160,
+						"buffer_size": 19148,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								160,
-								160
-							]
-						],
-						"settings":
-						{
-							"auto_name": "China+AND+(wpcf-start-date_dt:[1999-01-01T00:00:00",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "wp-content/plugins/advanced-search-by-my-solr-server/advanced-search-by-my-solr-server.php",
-					"settings":
-					{
-						"buffer_size": 47183,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								28262,
-								28262
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 12502.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "wp-content/plugins/solr-for-wordpress/solr-for-wordpress.php",
-					"settings":
-					{
-						"buffer_size": 61635,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								26984,
-								26984
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 12842.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "wp-content/themes/roots-master/mss_search_custom.php",
-					"settings":
-					{
-						"buffer_size": 10556,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4485,
-								4485
+								3540,
+								3540
 							]
 						],
 						"settings":
@@ -376,26 +329,60 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 800.0,
-						"translation.y": 1683.0,
+						"translation.x": 0.0,
+						"translation.y": 1256.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "wp-content/themes/roots-master/templates/content-front-page.php",
+					"buffer": 3,
+					"file": "wp-content/themes/roots-master/templates/entry-meta.php",
 					"settings":
 					{
-						"buffer_size": 2322,
+						"buffer_size": 502,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								728,
-								728
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/roots-master/templates/content-reg.php",
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							],
+							[
+								471,
+								471
 							]
 						],
 						"settings":
@@ -412,50 +399,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "wp-content/themes/roots-master/templates/content-single.php",
+					"buffer": 5,
+					"file": "wp-content/themes/roots-master/templates/content-archive_breaking_history.php",
 					"settings":
 					{
-						"buffer_size": 1304,
+						"buffer_size": 1509,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1304,
-								1304
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "wp-content/themes/roots-master/single.php",
-					"settings":
-					{
-						"buffer_size": 6460,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								535,
-								535
+								916,
+								916
 							]
 						],
 						"settings":
@@ -467,25 +423,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 306.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "wp-content/themes/roots-master/lib/custom.php",
+					"buffer": 6,
+					"file": "wp-content/themes/roots-master/templates/content-single.php",
 					"settings":
 					{
-						"buffer_size": 12920,
+						"buffer_size": 2475,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								463,
-								463
+								602,
+								0
 							]
 						],
 						"settings":
@@ -494,11 +450,72 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1887.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/reverie/single-breaking_history.php",
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/reverie/loop-breaking_history.php",
+					"settings":
+					{
+						"buffer_size": 1850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -512,7 +529,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -539,11 +556,11 @@
 	"menu_visible": true,
 	"output.sftp":
 	{
-		"height": 198.0
+		"height": 199.0
 	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -566,6 +583,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 287.0,
+	"side_bar_width": 368.0,
 	"status_bar_visible": true
 }
