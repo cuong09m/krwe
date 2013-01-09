@@ -51,7 +51,7 @@
 			"file": "wp-content/themes/roots-master/templates/entry-meta.php",
 			"settings":
 			{
-				"buffer_size": 502,
+				"buffer_size": 506,
 				"line_ending": "Unix"
 			}
 		},
@@ -202,7 +202,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/var/www/keesings/wp-content/themes"
@@ -243,7 +243,6 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
 				{
@@ -340,15 +339,15 @@
 					"file": "wp-content/themes/roots-master/templates/entry-meta.php",
 					"settings":
 					{
-						"buffer_size": 502,
+						"buffer_size": 506,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								502,
-								502
+								151,
+								151
 							]
 						],
 						"settings":
@@ -554,6 +553,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 176.0
+	},
 	"output.sftp":
 	{
 		"height": 199.0
@@ -573,11 +576,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
