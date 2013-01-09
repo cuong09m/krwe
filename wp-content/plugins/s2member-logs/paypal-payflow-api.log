@@ -1136,3 +1136,103 @@ array (
   'CURRENCY' => 'USD',
 )
 
+PHP v5.4.6-1ubuntu1.1 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 25.74 MB :: Real Memory 26.00 MB :: Peak Memory 25.81 MB :: Real Peak Memory 26.00 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357726315.2242999076843261718750
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Wed Jan 9, 2013 10:11:58 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000005&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000005',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Wed Jan 9, 2013 10:12:05 am UTC ) --------
+RESULT=0&RPREF=RSJ5A289E4D8&PROFILEID=RP0000000005&STATUS=ACTIVE&PROFILENAME=1358650939:0 D:1 M~recordofworldevents.com~1&START=01202013&TERM=0&NEXTPAYMENT=01202013&PAYPERIOD=MONT&FREQUENCY=1&TENDER=C&AMT=24.99&ACCT=4476XXXXXXXX1083&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=24.99&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=vstoman@aol.com&NAME=Vicki&LASTNAME=Toman&STREET=1010 Rockville Pike, Suite 500&CITY=Rockville&STATE=MD&ZIP=20852&COUNTRY=US&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RSJ5A289E4D8',
+  'PROFILEID' => 'RP0000000005',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1358650939:0 D:1 M~recordofworldevents.com~1',
+  'START' => '01202013',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01202013',
+  'PAYPERIOD' => 'MONT',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '24.99',
+  'ACCT' => '4476XXXXXXXX1083',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '24.99',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'vstoman@aol.com',
+  'NAME' => 'Vicki',
+  'LASTNAME' => 'Toman',
+  'STREET' => '1010 Rockville Pike, Suite 500',
+  'CITY' => 'Rockville',
+  'STATE' => 'MD',
+  'ZIP' => '20852',
+  'COUNTRY' => 'US',
+  'CURRENCY' => 'USD',
+)
+
+PHP v5.4.6-1ubuntu1.1 :: WordPress® v3.5 :: s2Member® v121213 :: s2Member® Pro v121213
+Memory 25.75 MB :: Real Memory 26.00 MB :: Peak Memory 25.83 MB :: Real Peak Memory 26.00 MB
+recordofworldevents.com/wp-cron.php?doing_wp_cron=1357726315.2242999076843261718750
+User-Agent: WordPress/3.5; http://recordofworldevents.com
+-------- Input vars: ( Wed Jan 9, 2013 10:12:05 am UTC ) --------
+TRXTYPE[1]=R&ACTION[1]=I&TENDER[1]=C&ORIGPROFILEID[12]=RP0000000006&VERBOSITY[6]=MEDIUM&USER[12]=keesings4905&PARTNER[6]=PayPal&VENDOR[12]=keesings4905&PWD[9]=Charlie25
+array (
+  'TRXTYPE' => 'R',
+  'ACTION' => 'I',
+  'TENDER' => 'C',
+  'ORIGPROFILEID' => 'RP0000000006',
+  'VERBOSITY' => 'MEDIUM',
+  'USER' => 'keesings4905',
+  'PARTNER' => 'PayPal',
+  'VENDOR' => 'keesings4905',
+  'PWD' => 'Charlie25',
+)
+-------- Output string/vars: ( Wed Jan 9, 2013 10:12:06 am UTC ) --------
+RESULT=0&RPREF=RUY5A3B5CC7C&PROFILEID=RP0000000006&STATUS=ACTIVE&PROFILENAME=1388710361:0 D:1 Y~recordofworldevents.com~1&START=01032014&TERM=0&NEXTPAYMENT=01032014&PAYPERIOD=YEAR&FREQUENCY=1&TENDER=C&AMT=197.00&ACCT=5569XXXXXXXX8951&EXPDATE=0913&AGGREGATEAMT=0.00&AGGREGATEOPTIONALAMT=197.00&MAXFAILPAYMENTS=2&NUMFAILPAYMENTS=0&RETRYNUMDAYS=2&EMAIL=joe.reader@precise.co.uk&NAME=JOE&LASTNAME=READER&STREET=PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT&CITY=LONDON&STATE=LONDON&ZIP=EC3N 4QN&COUNTRY=GB&CURRENCY=USD
+array (
+  'RESULT' => '0',
+  'RPREF' => 'RUY5A3B5CC7C',
+  'PROFILEID' => 'RP0000000006',
+  'STATUS' => 'ACTIVE',
+  'PROFILENAME' => '1388710361:0 D:1 Y~recordofworldevents.com~1',
+  'START' => '01032014',
+  'TERM' => '0',
+  'NEXTPAYMENT' => '01032014',
+  'PAYPERIOD' => 'YEAR',
+  'FREQUENCY' => '1',
+  'TENDER' => 'C',
+  'AMT' => '197.00',
+  'ACCT' => '5569XXXXXXXX8951',
+  'EXPDATE' => '0913',
+  'AGGREGATEAMT' => '0.00',
+  'AGGREGATEOPTIONALAMT' => '197.00',
+  'MAXFAILPAYMENTS' => '2',
+  'NUMFAILPAYMENTS' => '0',
+  'RETRYNUMDAYS' => '2',
+  'EMAIL' => 'joe.reader@precise.co.uk',
+  'NAME' => 'JOE',
+  'LASTNAME' => 'READER',
+  'STREET' => 'PRECISE MEDIA, THE REGISTRY, 3 ROYAL MINT COURT',
+  'CITY' => 'LONDON',
+  'STATE' => 'LONDON',
+  'ZIP' => 'EC3N 4QN',
+  'COUNTRY' => 'GB',
+  'CURRENCY' => 'USD',
+)
+
