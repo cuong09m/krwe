@@ -39,10 +39,10 @@ jQuery(document).ready(function () {
     });
 
     jQuery("#wpcf-start-date_dt").monthpicker({
-        dateFormat: "yy-mm",yearRange: 'c-26:c+0'
+        dateFormat: "yy-mm",yearRange: '1987:'
     });
     jQuery("#wpcf-end-date_dt").monthpicker({
-        dateFormat: "yy-mm",yearRange: 'c-26:c+0'
+        dateFormat: "yy-mm",yearRange: '1987:c+0'
     });
 });
 

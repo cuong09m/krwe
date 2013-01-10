@@ -26,7 +26,7 @@
                 }
                 ?>
 	        </select>
-            <?php wp_dropdown_categories('show_option_none=Browse by topics&orderby=name&name=cat'); ?>
+            <?php wp_dropdown_categories('show_option_none=Browse by topics&orderby=name&name=cat&exclude=68493'); ?>
         </form>
        </span>
 	</h1>

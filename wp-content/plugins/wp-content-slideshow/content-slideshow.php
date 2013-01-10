@@ -210,7 +210,7 @@ line-height: 10px !important;
                         ?>
 
 			<?php if ( $counting == 1 ) { ?>
-				<li class="on clearfix" id="post-<?php echo $counting; ?>">
+				<li class="on clearfix" id="post-<?php echo $counting; ?>" onclick="location.href='<?php the_permalink(); ?>';">
 					<a href="#main-post-<?php echo $counting; ?>" title="<?php the_title(); ?>">
 						<?php echo cut_content_feat(get_the_title(), 35, ""); ?><br />
 						<?php $excerpt = get_the_excerpt();?>
@@ -218,7 +218,7 @@ line-height: 10px !important;
 					</a>
 				</li>
 			<?php } else { ?>
-				<li id="post-<?php echo $counting; ?>" class="clearfix">
+				<li id="post-<?php echo $counting; ?>" class="clearfix" onclick="location.href='<?php the_permalink(); ?>';">
 					<a href="#main-post-<?php echo $counting; ?>" title="<?php the_title(); ?>">
 						<?php echo cut_content_feat(get_the_title(), 35, ""); ?><br />
 						<?php $excerpt = get_the_excerpt();?>

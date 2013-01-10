@@ -950,3 +950,16 @@ h2 {
     display: inline;
 }
 
+.solr_results h2{
+    font-size: 12px;
+    font-weight: bold;
+    margin: 5px 0px 0px 0px;
+}
+
+.solr_results p {
+    margin-bottom: 0px;
+}
+
+.solr_results .time {
+
+}

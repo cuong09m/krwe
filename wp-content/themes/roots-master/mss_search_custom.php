@@ -108,6 +108,7 @@ if (current_theme_supports('bootstrap-top-navbar')) {
                         <?php 
                             $selectedTopic=$_GET['selectedtopic'];
                             $selectedNation=$_GET['selectednation'];
+							$selectedRegion=$_GET['selectedregion'];
                         ?>
 
 						<div class="control-group">
@@ -120,14 +121,19 @@ if (current_theme_supports('bootstrap-top-navbar')) {
                             <div class="controls"><?php wp_dropdown_categories('taxonomy=nation&show_option_all=All&id=selectednation&name=selectednation&class=solr_field&orderby=name&order=ASC&selected='.$selectedNation);?></div>
 						</div>
 
+                        <div class="control-group">
+                            <label class="control-label">Select region </label>
+                            <div class="controls"><?php wp_dropdown_categories('taxonomy=reg&show_option_all=All&id=selectedregion&name=selectedregion&class=solr_field&orderby=name&order=ASC&selected='.$selectedRegion);?></div>
+                        </div>
+
 						<div class="control-group">
-							<label class="control-label">Between</label>
+							<label class="control-label">Date range</label>
 
 							<div class="controls"><input type="text"
-							                             value="<?php if (isset($_GET['wpcf-start-date_dt'])) echo $_GET['wpcf-start-date_dt'];?>"
+							                             value="<?php if (isset($_GET['wpcf-start-date_dt'])) echo $_GET['wpcf-start-date_dt']; else echo '1987-01';?>"
 							                             class="datepicker input-medium" name="wpcf-start-date_dt"
 							                             id="wpcf-start-date_dt"/> and <input type="text"
-							                                                                  value="<?php if (isset($_GET['wpcf-end-date_dt'])) echo $_GET['wpcf-end-date_dt'];?>"
+							                                                                  value="<?php if (isset($_GET['wpcf-end-date_dt'])) echo $_GET['wpcf-end-date_dt']; else print_r(date('Y-m'));?>"
 							                                                                  class="datepicker input-medium"
 							                                                                  name="wpcf-end-date_dt"
 							                                                                  id="wpcf-end-date_dt"/>
@@ -191,16 +197,17 @@ if (current_theme_supports('bootstrap-top-navbar')) {
             } else {
                 foreach ($results['results'] as $result) {
                     $post = get_post($result['id']);
+	                setup_postdata($post);
                     ?>
                     <article id="post-<?php echo $result['id']; ?>" <?php post_class('archivearticle'); ?>>
                         <header>
-                            <h1><?php echo  get_post_meta($result['id'], 'wpcf-nation', true); ?></h1> <h2><a href="<?php echo $result ['permalink'] . '?fs=1'?>"><?php echo $result ['title']
-                                ?></a></h2>
-                            <?php echo date("M, Y",get_post_meta($result['id'], 'wpcf-end-date', true)); ?>
+                            <h2><a href="<?php echo $result ['permalink'] . '?fs=1'?>"><?php echo $result ['title']
+                                ?></a> <?php if(get_post_meta($result['id'], 'wpcf-nation', true)) echo  '('.get_post_meta($result['id'], 'wpcf-nation', true).')'; ?></h2>
                         </header>
                         <div class="entry-summary">
-                            <?php echo $result ['teaser']; ?>
+                            <?php echo the_excerpt(); ?>
                         </div>
+	                    <span class="time"><?php echo date("M, Y",get_post_meta($result['id'], 'wpcf-end-date', true)); ?></span>
                     </article>
                     <?php
                 }

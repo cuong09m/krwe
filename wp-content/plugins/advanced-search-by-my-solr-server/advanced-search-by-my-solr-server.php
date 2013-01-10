@@ -698,7 +698,10 @@ function mss_search_results() {
     $wpcf_start_date = stripslashes($_GET['wpcf-start-date_dt']);
 
     $exactwords = stripslashes($_GET['exactwords']);
-    if($exactwords!="") $qry = $qry." AND \"".$exactwords."\"";
+    if($exactwords!="") {
+	    if($qry) $qry = $qry." AND \"".$exactwords."\"";
+	    else  $qry = "\"".$exactwords."\"";
+    }
 
     $nonewords = stripslashes($_GET['nonewords']);
     if($nonewords!="" && $qry!="") {
@@ -716,11 +719,17 @@ function mss_search_results() {
     if($_GET['selectednation']) {
         $fq=$fq.'nation_str:"'.$selected_nation->name.'"';
     }
+
     $selected_topic=get_category($_GET['selectedtopic']);
     if($_GET['selectedtopic']) {
         if($fq) $fq=$fq.' || categories:"'.$selected_topic->name.'^^"';
         else $fq='categories:"'.$selected_topic->name.'^^"';
     }
+
+	$selected_region=get_term($_GET['selectedregion'],'reg');
+	if($_GET['selectedregion']) {
+		$fq=$fq.'reg_str:"'.$selected_region->name.'"';
+	}
 
     //End Alex
 
@@ -787,7 +796,7 @@ function mss_search_results() {
 	if ($qry) {
         if($wpcf_start_date) {
             if($wpcf_end_date) {
-                $qry2 = $qry." AND (wpcf-start-date_dt:[".$wpcf_start_date." TO ".$wpcf_end_date."] OR wpcf-end-date_dt:[".$wpcf_start_date." TO ".$wpcf_end_date."])";
+                $qry2 = $qry." AND (wpcf-start-date_dt:[".$wpcf_start_date." TO ".$wpcf_end_date."] AND wpcf-end-date_dt:[".$wpcf_start_date." TO ".$wpcf_end_date."])";
             } else {
                 $qry2 = $qry." AND wpcf-start-date_dt:[".$wpcf_start_date." TO * ]";
             }
